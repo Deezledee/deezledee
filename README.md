@@ -9,7 +9,7 @@ Berlin, Germany 🇩🇪
 
 I'm a Berlin-based developer who genuinely loves tech and building useful products. My focus is backend and data-driven development, and I'm currently deepening my expertise in Data Science, MLOps and AI Engineering through hands-on practice.
 
-- 🔭 Currently building **Project Gaia** — a software lifecycle & compliance platform (Strapi · Docker · PostgreSQL · Kubernetes-native)
+- 🔭 Currently building **Project Gaia** — a software lifecycle & governance platform replacing spreadsheet-heavy workflows with an orchestrated multi-service system (Strapi · Docker · PostgreSQL · Kubernetes-native)
 - 🤖 Exploring **AI agents**, RAG workflows and LLM-based applications
 - 🗄️ Experienced in ERP integrations, data migration, SQL reporting and workflow automation
 - 🥋 Shotokan Karate **3rd Dan** — discipline, focus and continuous improvement, on and off the mat (the greatest passion which I integrate in some of my projects too)
@@ -71,7 +71,7 @@ Collaborative data science project using deep learning (CNNs, Transfer Learning)
 ---
 
 ### 🌱 Project Gaia *(in development)*
-Software lifecycle and compliance platform. Building the Strapi-based registry component with Dockerized workflows, PostgreSQL integration and API-oriented architecture. *(Open-source — contributing alongside the project lead.)*
+Software lifecycle and governance platform designed to replace fragmented spreadsheet-based processes with a usable, integrated system. Gaia combines a Strapi-powered registry with service orchestration and integrations to external governance solutions, enabling connected workflows across tools instead of isolated data silos.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pj-gaia)
 

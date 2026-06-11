@@ -94,7 +94,7 @@ Interactive browser game inspired by one of my favorite TV shows, Family Guy *(n
 ---
 
 ### 🌤️ [Weather Prediction App](https://adoring-kowalevski-9714eb.netlify.app/)
-One of my first projects from the SheCodes workshop that deepened my understanding of API integrations, responsive design and JavaScript fundamentals. Built with live weather data and an intuitive UI, this project was instrumental in my journey into advanced web development phases.
+One of my first projects from the SheCodes workshop that deepened my understanding of API integrations, responsive design and JavaScript & React.js fundamentals. Built with live weather data and an intuitive UI, this project was instrumental in my journey into advanced web development phases.
 
 [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat)](https://adoring-kowalevski-9714eb.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Deezledee/Weather-App-Diana-K)

@@ -1,6 +1,6 @@
 # Hi, I'm Diana (Dee) 👋
 
-**Backend & Data Engineer · AI Applications · Automation**  
+**Full-Stack Developer · Data Engineering · AI Applications · Automation**  
 Berlin, Germany 🇩🇪
 
 ---

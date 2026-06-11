@@ -100,7 +100,7 @@ Front-end projects showcasing interactive gameplay (P5.js) and live API integrat
 
 | Year | Program | Institution |
 |------|---------|-------------|
-| 2025–2026 | Data Science & Machine Learning Bootcamp | Liora |
+| 2025–2026 | Data Science & Machine Learning Bootcamp | Université Paris 1 Panthéon-Sorbonne · Liora |
 | 2023 | Full-Stack Web Development Bootcamp | Ironhack, Berlin |
 | 2021–2022 | Web Development Coding Workshop | SheCodes (Remote) |
 | 2013–2016 | B.Sc. Economics & Business Management (Finance) | Ruppin Academic Centre, Israel |

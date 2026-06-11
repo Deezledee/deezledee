@@ -85,13 +85,18 @@ Full-stack karate portal where users can sign up, log in, manage their karateka 
 
 ---
 
-### 🎮 [P5 Browser Game](https://my-family-guy-game.netlify.app/) · [Weather App](https://adoring-kowalevski-9714eb.netlify.app/)
-Front-end projects showcasing interactive gameplay (P5.js) and live API integrations.
+### 🎮 [P5 Browser Game](https://my-family-guy-game.netlify.app/)
+Interactive browser game inspired by one of my favorite TV shows, Family Guy *(not affiliated; the project is for learning purposes as part of a web-dev bootcamp with respect for intellectual property)*. Built with P5.js, showcasing game logic and interactive front-end design.
 
-[![Family Guy Game](https://img.shields.io/badge/Family_Guy_Game-Live-brightgreen?style=flat)](https://my-family-guy-game.netlify.app/)
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat)](https://my-family-guy-game.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Deezledee/Family-Guy-Project)
-&nbsp;
-[![Weather App](https://img.shields.io/badge/Weather_App-Live-brightgreen?style=flat)](https://adoring-kowalevski-9714eb.netlify.app/)
+
+---
+
+### 🌤️ [Weather Prediction App](https://adoring-kowalevski-9714eb.netlify.app/)
+One of my first projects from the SheCodes workshop that deepened my understanding of API integrations, responsive design and JavaScript fundamentals. Built with live weather data and an intuitive UI, this project was instrumental in my journey into advanced web development phases.
+
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat)](https://adoring-kowalevski-9714eb.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Deezledee/Weather-App-Diana-K)
 
 ---
